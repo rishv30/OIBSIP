@@ -1,2 +1,1 @@
-This is the simple landing page of my Blog website named Rishabh Blogs, The main tech stacks used in it is HTML and CSS.
-portfolio is my portfoilio website
+This repository includes the projects that I've done for an Internship in web dev and designing.
